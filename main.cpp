@@ -1,14 +1,4 @@
 /*
-Author: Aoun Hussain
-Class: ECE 6122-A
-Last Date Modified: Thur, Sep 23, 2021
-Description: This is the cpp source file for the solution of problem 2, lab 1.
-             It outputs the number of black squares left on a white square grid
-             to a text file when the ant takes the given the number of moves
-             according to some standard rules as defined in problem 2.
-*/
-
-/*
  References:
  https://en.wikipedia.org/wiki/Langton%27s_ant
  https://www.cplusplus.com/reference/set/set/find/
